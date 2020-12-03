@@ -27,4 +27,4 @@ Teste automatizado de API:
 Se você estiver tendo problemas com o desafio, sinta-se à vontade para entrar em contato conosco. Boa sorte!
 
 # Como entregar
-Por favor, use o Github para hospedar seu código e compartilhe o link do respositório no link (LINK)
+Ao finalizar, crie um repositório público no github ou bitbucket e envie o link do repositório para o recrutador (ele irá redirecionar para quem for necessário).
