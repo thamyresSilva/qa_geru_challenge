@@ -8,7 +8,7 @@ Sabendo que a Geru é uma plataforma de empréstimo 100% online, identifique 3 f
 
 # Part 2
 Teste de automatizado de UI:
-1. No nosso site de testes (www.stage-geru.com.br) tem a opção "Quero ser um parceiro". Automatize o cadastro de um parceiro utilizando o framework de sua escolha. 
+1. No nosso site de testes (https://www.stage-geru.com.br/seja-um-parceiro/) tem a opção "Quero ser um parceiro". Automatize o cadastro de um parceiro utilizando o framework de sua escolha. 
 2. Depois, escreva um resumo com as diretrizes das decisões que você tomou (por exemplo, explique por que você escolheu essa linguagem de programação, estrutura, etc.).
 3. Crie um READ ME bem detalhado com instruções claras de como configurar o ambiente e executar os testes em nossas máquinas locais!
 
