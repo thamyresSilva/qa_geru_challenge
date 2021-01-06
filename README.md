@@ -19,7 +19,7 @@ Teste automatizado de API:
 
 
 # Considerações finais:
-    - Você pode utilizar qualquer de programação ou qualquer framework... Fica à vontade!
+    - Você pode utilizar qualquer linguagem de programação ou qualquer framework... Fica à vontade!
     - Não se esqueça de escrever uma documentação detalhada sobre como instalar e executar os testes.
     - Este teste será avaliado pela equipe de QA's da Geru
     
